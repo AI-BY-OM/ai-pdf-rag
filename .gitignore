@@ -1,0 +1,25 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environment
+myenv/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ChromaDB
+data/vector_store/
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
